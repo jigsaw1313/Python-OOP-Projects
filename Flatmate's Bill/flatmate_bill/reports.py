@@ -51,7 +51,7 @@ class FileSharer:
     """
     creates a link to generated report.
     """
-    def __init__(self, filepath, api_key=<YOUR-API-KEY>):
+    def __init__(self, filepath, api_key='AYCRt4NjvSZW3lXvY3xhwz'):
         self.file_path = filepath
         self.api_key = api_key
 
